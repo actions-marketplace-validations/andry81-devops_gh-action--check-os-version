@@ -1,3 +1,6 @@
+2026.08.25:
+* changed: userlog.md: user log update
+
 2025.02.03:
 * changed: README.md: github markdown blockquotes update
 * changed: README.md: repo links update
